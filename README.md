@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mijolae
+- 👋 Hi, I’m @mijolae (pronounced mah-joe-lay)
 - 👀 I’m interested in web applications, UI, and blockchain
-- 🌱 I’m currently learning API development
-- 💞️ I’m looking to collaborate on new ideas and app development!
+- 🌱 I’m currently learning native mobile app development
 - 📫 How to reach me: mijolae@gmail.com
 
 <!---
